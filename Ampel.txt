@@ -1,0 +1,177 @@
+@a@0
+2       U    "T-St-Ein"
+2       S    M        1.0
+2
+2       U    M        1.0
+2       =    "L-St"
+2
+2       UN   "T-St-Aus"
+2       R    M        1.0
+2
+2       UN   "S-Tag/Nacht"
+2       UN   T         8
+2       L    S5T#500MS
+2       SE   T         7
+2
+2       UN   "S-Tag/Nacht"
+2       U    T         7
+2       L    S5T#500MS
+2       SE   T         8
+2
+2       UN   "S-Tag/Nacht"
+2       U    T         7
+2       =    "S-GE"
+2
+2       UN   "S-Tag/Nacht"
+2       R    "S-RT"
+2       R    "S-GN"
+2       R    "F-RT"
+2       R    "F-GN"
+2
+2       U    "S-Tag/Nacht"
+2       UN   M        1.0
+2       S    "S-GN"
+2       S    "F-RT"
+2
+2       U    "S-Tag/Nacht"
+2       U    M        3.0
+2       U    M        1.0
+2       S    "S-GE"
+2       S    "F-RT"
+2       R    "S-GN"
+2       R    "S-RT"
+2       R    "F-GN"
+2       R    M        4.0
+2       R    M        5.0
+2       R    M        6.0
+2       R    M        7.0
+2       R    M        8.0
+2       R    M        9.0
+2       R    M        10.0
+2       R    T         0
+2       R    T         1
+2       R    T         2
+2       R    T         3
+2       R    T         4
+2       R    T         5
+2       R    T         6
+2
+2       U    "S-Tag/Nacht"
+2       FP   M        2.0
+2       =    M        3.0
+2
+2       U    M        1.0
+2       U(
+2       O    M        3.0
+2       O    M        10.0
+2       )
+2       L    S5T#3S
+2       SS   T         0
+2
+2       U    T         0
+2       UN   M        4.0
+2       S    "S-RT"
+2       R    "S-GE"
+2
+2       U    T         0
+2       UN   M        4.0
+2       L    S5T#5S
+2       SS   T         1
+2
+2       U    T         0
+2       S    M        4.0
+2
+2       U    T         1
+2       UN   M        5.0
+2       S    "F-GN"
+2       R    "F-RT"
+2
+2       U    T         1
+2       S    M        5.0
+2       R    T         4
+2       R    T         5
+2       R    T         6
+2       R    T         1
+2
+2       U    T         1
+2       UN   M        5.0
+2       L    S5T#10S
+2       SS   T         2
+2
+2       U    T         2
+2       UN   M        6.0
+2       S    "F-RT"
+2       R    "F-GN"
+2
+2       U    T         2
+2       UN   M        6.0
+2       L    S5T#7S
+2       SS   T         3
+2
+2       U    T         2
+2       S    M        6.0
+2
+2       U    T         3
+2       UN   M        7.0
+2       S    "S-GE"
+2
+2       U    T         3
+2       UN   M        7.0
+2       L    S5T#3S
+2       SS   T         4
+2
+2
+2       U    T         4
+2       UN   M        8.0
+2       S    "S-GN"
+2       R    "S-GE"
+2       R    "S-RT"
+2
+2       U    T         3
+2       S    M        7.0
+2
+2       U    T         4
+2       UN   M        8.0
+2       L    S5T#10S
+2       SS   T         5
+2
+2       U    T         4
+2       S    M        8.0
+2       R    T         0
+2       R    T         1
+2       R    T         2
+2       R    T         3
+2       R    T         4
+2
+2       U    T         5
+2       U(
+2       O    "Taster F1"
+2       O    "Taster F2"
+2       )
+2       R    T         5
+2
+2       U    T         6
+2       R    "S-GN"
+2
+2       U    T         5
+2       UN   M        9.0
+2       U(
+2       O    "Taster F1"
+2       O    "Taster F2"
+2       )
+2       L    S5T#6S
+2       SS   T         6
+2
+2       U    T         6
+2       R    M        8.0
+2       R    M        7.0
+2       R    M        6.0
+2       R    M        5.0
+2       R    M        4.0
+2
+2       U    T         6
+2       S    M        9.0
+2
+2       U    M        9.0
+2       FP   M        10.0
+2       =    M        11.0
